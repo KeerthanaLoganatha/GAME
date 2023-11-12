@@ -1,0 +1,41 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: rgb(123, 101, 127);
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Copperplate', fantasy;
+  text-shadow: 4px 0 #272331;
+  font-size: 6rem;
+  color: #b37108;
+}
+
+p {
+  font-size: 2rem;
+  color: #551326;
+  font-family: 'Lucida Handwriting', cursive;
+}
+
+img {
+  width: 10%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Lucida Handwriting', cursive;
+
+}
